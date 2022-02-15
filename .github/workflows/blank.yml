@@ -60,3 +60,10 @@ jobs:
            echo "MONTH = ${{env.MONTH}}"
            echo "YEAR = ${{env.YEAR}}"
            echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
+
+      - name : Check Secret
+        if   : ${{env.FAVORITE_DAY == '5'}} 
+        run   : 
+           echo "Ok"
+
+ 
