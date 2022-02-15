@@ -60,8 +60,6 @@ jobs:
            echo "MONTH = ${{env.MONTH}}"
            echo "YEAR = ${{env.YEAR}}"
            echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
-      - name  : check 
-        run   : ls -la
         
         
 
