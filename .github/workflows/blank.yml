@@ -51,10 +51,7 @@ jobs:
     needs: [task1]
     
     
-    steps:
-      - name : Check Secret
-      - exit : failure()
-        if   : ${{env.FAVORITE_DAY != '5'}}     
+    steps:     
       - name : Print the system date and time
         run   : date
       - name  : Print your variable’s content
@@ -63,7 +60,8 @@ jobs:
            echo "MONTH = ${{env.MONTH}}"
            echo "YEAR = ${{env.YEAR}}"
            echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
-
+      - name : check 
+        run   : FAVORITE_DAY=$FAVORITE_DAY_OF_WEEK check.sh
 
         
         
