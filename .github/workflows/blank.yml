@@ -51,7 +51,7 @@ jobs:
     needs: [task1]
     
     
-    steps:     
+    steps: 
       - name : Print the system date and time
         run   : date
       - name  : Print your variable’s content
