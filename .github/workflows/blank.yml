@@ -12,6 +12,7 @@ env:
    YEAR                   : 2022
    MONTH                  : February
    DAY_OF_THE_MONTH       : 15
+   FAVORITE_DAY           : ${{secrets.FAVORITE_DAY_OF_WEEK}}
 
 
 
@@ -58,4 +59,4 @@ jobs:
            echo "DAY_OF_THE_MONTH = ${{env.DAY_OF_THE_MONTH}}"
            echo "MONTH = ${{env.MONTH}}"
            echo "YEAR = ${{env.YEAR}}"
-           echo "FAVORITE_DAY_OF_WEEK = ${{secret.FAVORITE_DAY_OF_WEEK}}"
+           echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
