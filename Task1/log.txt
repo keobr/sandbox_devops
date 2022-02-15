@@ -1,0 +1,5 @@
+commit d6abdda3b7a43df5b12f3af486c79c1bca42554c
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:36:21 2022 +0300
+
+    Create and push ./Task1/README.md
