@@ -58,3 +58,4 @@ jobs:
            echo "DAY_OF_THE_MONTH = ${{env.DAY_OF_THE_MONTH}}"
            echo "MONTH = ${{env.MONTH}}"
            echo "YEAR = ${{env.YEAR}}"
+           echo "FAVORITE_DAY_OF_WEEK = ${{secret.FAVORITE_DAY_OF_WEEK}}"
