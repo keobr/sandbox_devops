@@ -65,5 +65,7 @@ jobs:
         if   : ${{env.FAVORITE_DAY == '5'}} 
         run   : 
            echo "Ok"
+        shell : bash
+        
 
  
