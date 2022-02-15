@@ -61,8 +61,8 @@ jobs:
            echo "YEAR = ${{env.YEAR}}"
            echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
       - name : check 
-        run   : FAVORITE_DAY=$FAVORITE_DAY_OF_WEEK check.sh
-
+        run   : FAVORITE_DAY=$FAVORITE_DAY_OF_WEEK
+        shell : bash
         
         
 
