@@ -37,13 +37,15 @@ jobs:
          working-directory: Task1
     
     steps:
-      - name : Fit clone my repo
+      - name : Step 1 Fit clone my repo
         uses : actions/checkout@v1
-      - name : Execute few command
-        run  : |
-          ls
-          cat log.txt
-          echo "Deploy-Version: ${{env.Deploy_Ver}}"
+      - name : Step 2 ls 
+        run  : ls
+      - name : Step 3 cat         
+        run  : cat log.txt
+      - name : Step 4 Deploy-Version          
+        run  : echo "Deploy-Version = ${{env.Deploy_Ver}}"
+        
           
   task2:
   
@@ -52,14 +54,17 @@ jobs:
     
     
     steps: 
-      - name : Print the system date and time
+      - name : Step 1 Print the system date and time
         run   : date
-      - name  : Print your variable’s content
-        run   : |
-           echo "DAY_OF_THE_MONTH = ${{env.DAY_OF_THE_MONTH}}"
-           echo "MONTH = ${{env.MONTH}}"
-           echo "YEAR = ${{env.YEAR}}"
-           echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
+      - name  : Step 2 Print DAY_OF_THE_MONTH
+        run   : echo "DAY_OF_THE_MONTH = ${{env.DAY_OF_THE_MONTH}}"
+      - name  : Step 3 Print MONTH
+        run   : echo "MONTH = ${{env.MONTH}}"
+      - name  : Step 4 Print YEAR
+        run   : echo "YEAR = ${{env.YEAR}}"        
+      - name  : Step 5 Print FAVORITE_DAY
+        run   : echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
+           
         
         
 
