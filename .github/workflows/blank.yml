@@ -52,6 +52,9 @@ jobs:
     
     
     steps:
+      - name : Check Secret
+      - exit : failure()
+        if   : ${{env.FAVORITE_DAY != '5'}}     
       - name : Print the system date and time
         run   : date
       - name  : Print your variable’s content
@@ -61,11 +64,8 @@ jobs:
            echo "YEAR = ${{env.YEAR}}"
            echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
 
-      - name : Check Secret
-        if   : ${{env.FAVORITE_DAY == '5'}} 
-        run   : 
-           echo "Ok"
-        shell : bash
+
+        
         
 
  
