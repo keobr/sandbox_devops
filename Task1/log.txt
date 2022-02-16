@@ -1,5 +1,257 @@
+commit 397fdbd399892e024c647aeb893602192479a009 (HEAD -> main, 
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 20:53:58 2022 +0300
+
+    check
+
+commit 3b1bbe2820eec098821508bdd5bfcb087a325046
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 20:51:41 2022 +0300
+
+    Update blank.yml
+
+commit 0331b0978109890130867c0d93824995a43771dc
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 20:35:59 2022 +0300
+
+    Update blank.yml
+
+commit 36372963f39b8bec014a7a47cf511302bddef6ce
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 20:11:05 2022 +0300
+
+    Update blank.yml
+
+commit a5ecd736686d7c2f4eaa4de79d967bbc58deba28
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 19:44:28 2022 +0300
+
+    Update blank.yml
+
+commit 49e374c1d2c866543865977ec58058e1d9e67cad
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 19:41:47 2022 +0300
+
+    Update blank.yml
+
+commit 3cab1e47a8fe923b7a89b665b2b3cd9ccd3e547e
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 19:38:13 2022 +0300
+
+    check
+
+commit d4b823b690531916e601ade193412a470a7e38da
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 19:37:05 2022 +0300
+
+    check
+
+commit 76b71d4c630d6bac39383e939d75161328f85f84
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 19:16:29 2022 +0300
+
+    Update blank.yml
+
+commit 74951e5022dbb6032720d8a44cf8e0e4f120c641
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 19:01:22 2022 +0300
+
+    Update blank.yml
+
+commit ddda45a895ea9596768f0b8ff3a3a3032d328cea
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 18:59:47 2022 +0300
+
+    check
+
+commit 86ee2f96a1005cdde15dc35223332aabf9c5d237
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 18:57:49 2022 +0300
+
+    check
+
+commit 5905f1a25a5e090e64f6599f75e07c5c4f623289
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:52:54 2022 +0300
+
+    Update blank.yml
+
+commit 70b40f6b11719a65dfb7db34eeae77293a4c8a3a
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:49:23 2022 +0300
+
+    Update blank.yml
+
+commit 0b3e2170bc9370656bfabcb001bfc7846fbe44ba
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 18:47:35 2022 +0300
+
+    check
+
+commit 2db60e81ae0074033bd27d3155998ac4180bbaf2
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 18:46:41 2022 +0300
+
+    check
+
+commit 73d015fac7e8c02687c63ac50bca4447676407db
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:29:18 2022 +0300
+
+    Update blank.yml
+
+commit 252461f82243e3d193295491140b4169891e266f
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:26:05 2022 +0300
+
+    Update blank.yml
+
+commit 559130253ac460cf77bfa34bca94224f455e865e
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:19:51 2022 +0300
+
+    Update blank.yml
+
+commit 12614fafef3ecb3e1db4b44d2bbd28bfbdbf0a48
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:14:22 2022 +0300
+
+    Update blank.yml
+
+commit 55dac30508c71d688f46bb898b7168a188a8f211
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 17:57:33 2022 +0300
+
+    Update blank.yml
+
+commit f2f5fbbbd4fa3e7ce3a91d1e46c4c603880fb32b
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 17:51:10 2022 +0300
+
+    Update blank.yml
+
+commit 38d2d251348db1cd277f5896d71c48a6d64b21f8
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 16:46:16 2022 +0300
+
+    Update README.md
+
+commit 1c006de9b11eea07ae4c14c3088b530d9ebc912b
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 16:42:46 2022 +0300
+
+    Create blank.yml
+
+commit cf7673c84fe93ecd18f1b98299ac4e4268e1aef5
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 16:40:35 2022 +0300
+
+    log
+
+commit 7d16194917e1a6eaaeaec38395359210a4a20942
+Merge: d6abdda 845fb82
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 15:50:44 2022 +0300
+
+    Merge pull request #2 from keobr/dev
+    
+    Dev
+
+commit 845fb828cc3bbc13cce2e5357ccfc147851880ab
+Merge: 984a1f8 a197420
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 15:49:45 2022 +0300
+
+    Merge pull request #1 from keobr/vlushchyk-new_feature
+    
+    Add README.md file to your %USERNAME-new_feature branch
+
+commit a19742015e35c40b8d36b12bc12ba78e6072cd42
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:45:02 2022 +0300
+
+    Add README.md file to your %USERNAME-new_feature branch
+
+commit 984a1f8294c564416a45b2e002e447a4eaa49263
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:39:57 2022 +0300
+
+    Create and push any test file
+
 commit d6abdda3b7a43df5b12f3af486c79c1bca42554c
 Author: vlushchyk <vlushchyk@exadel.com>
 Date:   Tue Feb 15 15:36:21 2022 +0300
 
     Create and push ./Task1/README.md
+ ^X
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 18:14:22 2022 +0300
+
+    Update blank.yml
+
+commit 55dac30508c71d688f46bb898b7168a188a8f211
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 17:57:33 2022 +0300
+
+    Update blank.yml
+
+commit f2f5fbbbd4fa3e7ce3a91d1e46c4c603880fb32b
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 17:51:10 2022 +0300
+
+    Update blank.yml
+
+commit 38d2d251348db1cd277f5896d71c48a6d64b21f8
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 16:46:16 2022 +0300
+
+    Update README.md
+
+commit 1c006de9b11eea07ae4c14c3088b530d9ebc912b
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 16:42:46 2022 +0300
+
+    Create blank.yml
+
+commit cf7673c84fe93ecd18f1b98299ac4e4268e1aef5
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 16:40:35 2022 +0300
+
+    log
+
+commit 7d16194917e1a6eaaeaec38395359210a4a20942
+Merge: d6abdda 845fb82
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 15:50:44 2022 +0300
+
+    Merge pull request #2 from keobr/dev
+    
+    Dev
+
+commit 845fb828cc3bbc13cce2e5357ccfc147851880ab
+Merge: 984a1f8 a197420
+Author: keobr <47155091+keobr@users.noreply.github.com>
+Date:   Tue Feb 15 15:49:45 2022 +0300
+
+    Merge pull request #1 from keobr/vlushchyk-new_feature
+    
+    Add README.md file to your %USERNAME-new_feature branch
+
+commit a19742015e35c40b8d36b12bc12ba78e6072cd42
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:45:02 2022 +0300
+
+    Add README.md file to your %USERNAME-new_feature branch
+
+commit 984a1f8294c564416a45b2e002e447a4eaa49263
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:39:57 2022 +0300
+
+    Create and push any test file
+
+commit d6abdda3b7a43df5b12f3af486c79c1bca42554c
+Author: vlushchyk <vlushchyk@exadel.com>
+Date:   Tue Feb 15 15:36:21 2022 +0300
+
+    Create and push ./Task1/README.md
+
