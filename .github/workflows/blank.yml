@@ -63,7 +63,7 @@ jobs:
       - name  : Step 4 Print YEAR
         run   : echo "YEAR = ${{env.YEAR}}"        
       - name  : Step 5 Print FAVORITE_DAY
-        run   : echo "FAVORITE_DAY = ${{env.FAVORITE_DAY}}"
+        run   : echo "FAVORITE_DAY = ${{secrets.FAVORITE_DAY_OF_WEEK}}"
            
         
         
